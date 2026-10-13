@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.env
+.env.*
+secrets/
+opencode.json
+opencode.jsonc
+cli.json
+service.json
